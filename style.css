@@ -1,0 +1,125 @@
+.d-inline-block align-text-top {
+    cursor: pointer;
+}
+.navbar-brand{
+    font-size: 2rem;
+
+}
+.nav{
+    margin-left: 100px;
+    margin-right: 0px;
+}
+.introduction{
+    margin-left: 100px;
+    margin-right: 200px;
+}
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  width: 60%;
+  height: fit-content;
+}
+#abstract{
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.methodlogy{
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.form-label{
+    width: 100%;
+}
+.result{
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.analysis{
+    margin-left: 100px;
+    margin-right: 200px;
+}
+#footer{
+    margin-left: 500px;
+    margin-right: 500px;
+    cursor: pointer;
+    background-color: rgb(150, 150, 150);
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    align-items: center;
+    margin-left: 100px;
+}
+.icon{
+    align-items: center;
+    margin-left: 150px;
+}
+
+.btn btn-success dropdown-toggle{
+    text-transform: uppercase;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 2px solid rgb(247, 242, 242);
+    width: 100px;
+    height: 40px;
+    font-size: medium;
+    color: aliceblue;
+    background-color: rgb(4, 136, 26);
+    box-shadow: 1px 4px 12px rgb(118, 114, 114);
+    margin-left: 500px;
+      
+}
+.dropdown-menu p-4{
+    border: 10;
+    position:fixed;
+
+}
+.container {
+    padding: 16px;
+    background-color: white;
+  }
+  input[type=text], input[type=password] {
+    width: 45%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display:block;
+    border: 2px;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+
+  .registerbtn {
+    background-color: #2b06e6;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 45%;
+    opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+    opacity: 1;
+  }
+  a {
+    color: dodgerblue;
+  }
+.lastimg{
+    width: 30%;
+    height: 20px;
+    margin-left: 705px;
+}
+
+
+
